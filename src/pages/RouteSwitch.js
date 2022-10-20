@@ -12,7 +12,7 @@ function RouteSwitch(){
 
             {/* header */}
             <div>
-                <h1><LinkButton link = '/' text = 'STORE NAME'></LinkButton>   </h1>
+                <h1><LinkButton link = '/' text = 'DAVIDBOXD'></LinkButton>   </h1>
                 <h2><LinkButton link = '/' text = 'Home'></LinkButton>   </h2>
                 <h2><LinkButton link = '/people' text = 'People'></LinkButton>   </h2>
                 <h2><LinkButton link = '/contact' text = 'Contact'></LinkButton>   </h2>
